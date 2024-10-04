@@ -5,7 +5,9 @@ Welcome to my Frontend Development Learning Repository! 🌐
 This repository serves as a personal portfolio of my journey in mastering the fundamentals of frontend development, including HTML, CSS, and JavaScript. Here, you'll find:
 
 HTML Projects: Examples showcasing semantic markup and accessibility best practices.
+
 CSS Styling: Creative designs utilizing Flexbox, Grid, and responsive techniques to create visually appealing layouts.
+
 JavaScript Functionality: Interactive web elements and scripts that enhance user experience.
 
 📚 Learning Objectives
