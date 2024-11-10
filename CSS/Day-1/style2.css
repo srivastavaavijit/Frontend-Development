@@ -1,0 +1,28 @@
+/* "*" is universal selector and used to select all tags. */
+*{
+    background-color:bisque;
+}
+
+/* Grouping Selector: */
+/* h1,h2,p{
+    background-color:tan;
+} */
+
+/* Select by attribute: */
+h2[draggable="true"]{
+    background-color: tomato;
+}
+
+h2[contenteditable="true"]{
+    background-color: sandybrown;
+}
+
+/* Select by descendant: Move level by level and search for p tag.*/
+/* section p{
+    background-color: springgreen;
+} */
+
+/* Select by child: Searhes only for child. */
+section > p{
+    background-color: yellow;
+}
