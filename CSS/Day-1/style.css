@@ -1,0 +1,22 @@
+/* External CSS: */
+
+/* Select by class name: */
+.heading{
+    background-color: black;
+    color: aqua;
+}
+
+/* Select by element name: */
+ul{
+    background-color: bisque;
+}
+
+/* Select by id name: */
+#thirdHeading{
+    color: bisque;
+    background-color: black;
+}
+
+#divTag{
+    background-color: burlywood;
+}
