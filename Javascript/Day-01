@@ -1,0 +1,29 @@
+// Google Chrome browser contains V8 Engine and javascript code can be directly run on console.
+
+// console.log("Hello Coder Army"); 
+
+// Variable Declaration: let, const, var. "var" is outdated and hence not used recently.
+let num = 10;
+console.log(num);
+
+let str = "Coder Army";
+console.log(str);
+
+str = "Rohit";
+console.log(str);
+
+let d = 1.34552356892;
+console.log(d);
+
+const id = 20; 
+console.log(id);
+
+// variable declared const cannot be changed.
+// id = 40;
+// console.log(id);
+
+var x = 200;
+console.log(x);
+
+x = 400;
+console.log(x);
